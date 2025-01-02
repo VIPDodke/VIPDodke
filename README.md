@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vipin830525@gmail.com**
 
-- 📄 Know about my experiences [https:VipinDodkeResume.pdf](https://github.com/VipinDodke/VipinDodke/blob/main/VipinDodkeResume.pdf) Updated Jan 2024
+- 📄 Know about my experiences [https:VIPIN_DODKE_RESUME.pdf](https://github.com/VipinDodke/VipinDodke/blob/main/VIPIN_DODKE_RESUME.pdf) Updated Aug 2024
 <br><br>
 
 <h3 align="left">Connect with me:</h3>
